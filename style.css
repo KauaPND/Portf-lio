@@ -4,7 +4,7 @@
 }
 @font-face {
   font-family: Fear;
-  src: url(/Fonts/storm_gust/Storm\ Gust.otf);
+  src: url(./Fonts/storm_gust/Storm\ Gust.otf);
 }
 body{
   font-size: larger;
